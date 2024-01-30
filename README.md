@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 
+Mi name is Miguel Sosa
+i'm a FullStack developer
 
 <!--
 **Mikemixsosa/Mikemixsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
